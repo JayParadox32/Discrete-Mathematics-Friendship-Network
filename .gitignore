@@ -1,0 +1,14 @@
+# Executables and binaries
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# IDE and OS files
+.vscode/
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
